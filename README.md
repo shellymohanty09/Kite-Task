@@ -7,4 +7,7 @@ Screenshot 1:
 <img src="https://github.com/shellymohanty09/Kite-Task/blob/main/img_2.png"> 
 
 Screenshot 2:
+<img src="https://github.com/shellymohanty09/Kite-Task/blob/main/img3.png">
+
+Screenshot 3:
 <img src="https://github.com/shellymohanty09/Kite-Task/blob/main/image.png" >
