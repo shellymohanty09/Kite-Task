@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kite Task</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container purple pullRight">
+        <h1> ANIME QUOTES API </h1>
+        <a href="/randomQuote">Random Quote</a>
+        <a href="/tenRandomQuotes">10 Random Quotes</a>
+        <a href="/animeTitle">Quote By Anime Title</a>
+        <a href="/characterName">Quote By Character Name</a>
+        <a href="/allAnime">All Available Anime</a>
+    </div>
+
+    <div class="bod"> 
+      <form action="/characterName" method="post">
+        <label for="titleInput">Enter Character of the Anime: </label>
+        <input id="titleInput" type="text" name="titleName"> 
+        <button type="submit">Go</button>
+    </form>
+    </div>
+    
+  </body>
+</html>
